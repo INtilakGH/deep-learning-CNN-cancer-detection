@@ -1,1 +1,3 @@
 # deep-learning-CNN-cancer-detection
+
+In this project, we developed a Convolutional Neural Network (CNN) model to detect cancerous tissues from histopathological images. Using the Histopathologic Cancer Detection dataset from Kaggle, which contains labeled images of tissue samples, our goal was to build a robust binary classification model that can distinguish between cancerous and non-cancerous tissues. The project involved preprocessing the images, optimizing the model architecture with techniques such as batch normalization and dropout, and fine-tuning hyperparameters to achieve high accuracy.
